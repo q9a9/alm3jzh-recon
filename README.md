@@ -13,7 +13,7 @@ This Tool It's MIXED With 4 Tools
 
 #Install  And Start The Tool                      
 
-$ git clone https://github.com/q9a9/alm3jzh-recon && cd alm3jzh-recon && python alm3jzh.py
+$ git clone https://github.com/q9a9/alm3jzh-recon.git && cd alm3jzh-recon && python alm3jzh.py
 
 
 
