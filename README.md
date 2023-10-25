@@ -18,3 +18,38 @@ $ git clone https://github.com/q9a9/alm3jzh-recon.git && cd alm3jzh-recon && pyt
 
 
 I Think You Need To Install Requests Module
+
+
+
+#First Tool         
+
+subdomain finder To Find The Avaliable SubDomain And UnAvalable SubDomain
+
+
+#Second Tool                
+
+Directory Finder To Find The Un/Avaliable Directory's
+
+
+
+#Third Tool                      
+
+Parameter Finder For The sub/Domain 
+
+
+#Sql Searcher VIA sqlmap                          
+
+
+This Tool For Linux Users  To Use Sqlmap To Scan
+
+
+
+
+
+
+
+
+
+
+
+#Enjoyyyyyyyyyyyyyyyyyyyyyyyyy
