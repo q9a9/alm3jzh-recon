@@ -1,3 +1,7 @@
+# Realease
+Update The Wordlist For Subdomain :)
+
+
 # alm3jzh-recon
 
 
